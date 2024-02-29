@@ -35,7 +35,7 @@
         "name": "Compteur kilométrique manuel"
       },
       "polestar_battery_charge_level": {
-        "name": "Niveau de charge de la betterie"
+        "name": "Niveau de charge de la batterie"
       },
       "polestar_estimated_charging_time_to_full": {
         "name": "Temps de recharge jusqu'à recharge complète"
